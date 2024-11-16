@@ -1,3 +1,6 @@
+--!strict
+-- metatablecat 2022
+
 local lz4 = {}
 
 type Streamer = {
